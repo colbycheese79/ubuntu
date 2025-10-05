@@ -12,7 +12,7 @@ exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork
 exec --no-startup-id lxpolkit
 exec --no-startup-id picom
 exec_always --no-startup-id autotiling
-exec --no-startup-id feh --bg-fill ~/builds/dotfiles/wallpaper/outrun.jpg
+exec --no-startup-id feh --bg-fill ~/builds/ubuntu/wallpaper/outrun.jpg
 
 # Use Mouse+$mod to drag floating windows to their wanted position
 floating_modifier $mod
